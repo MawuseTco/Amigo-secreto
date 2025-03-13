@@ -1,3 +1,7 @@
+# Amigo Secreto
+
+Este proyecto es una aplicación web que permite a un grupo de amigos sortear un amigo secreto de manera aleatoria. Los usuarios pueden agregar nombres a una lista, eliminar nombres si es necesario y sortear un amigo secreto desde la lista. También pueden reiniciar el juego en cualquier momento.
+
 ## Archivos Principales
 
 - `index.html`: Contiene la estructura HTML de la aplicación.
