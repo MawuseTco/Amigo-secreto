@@ -22,7 +22,7 @@
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla](assets/screenshot1.png)
+![Captura de Pantalla](assets/Screeshot1.png)
 
 ## Contribuciones
 
