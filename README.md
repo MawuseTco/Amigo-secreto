@@ -1,20 +1,37 @@
-# Proyecto Amigo Secreto
+# Amigo Secreto
 
-Este proyecto está diseñado para elegir aleatoriamente un amigo secreto de una lista de participantes que debe ser ingresada por pantalla. Ideal para organizar intercambios de regalos, juegos o actividades grupales.
+Este proyecto es una aplicación web que permite a un grupo de amigos sortear un amigo secreto de manera aleatoria. Los usuarios pueden agregar nombres a una lista, eliminar nombres si es necesario y sortear un amigo secreto desde la lista. También pueden reiniciar el juego en cualquier momento
 
-## Descripción
+## Archivos Principales
 
-El programa toma una lista de nombres, que dbes ir ingresando, de posibles participantes y elige uno al azar.
+- `index.html`: Contiene la estructura HTML de la aplicación.
+- `style.css`: Contiene los estilos CSS para la aplicación.
+- `app.js`: Contiene la lógica de la aplicación en JavaScript.
+- `assets/`: Contiene las imágenes utilizadas en la aplicación.
 
-## Características
+## Funcionalidades
 
-- **Asignación aleatoria** de amigos secretos`.
-- **Fácil personalización**: Puedes agregar o eliminar participantes sin problemas.
-- **Interfaz sencilla**: El proyecto es fácil de utilizar, solo necesitas ingresar la lista de participantes.
+1. **Agregar Amigo**: Permite agregar nombres a la lista de amigos.
+2. **Eliminar Amigo**: Permite eliminar nombres de la lista de amigos.
+3. **Sortear Amigo Secreto**: Selecciona un nombre al azar de la lista de amigos.
+4. **Reiniciar Juego**: Reinicia la lista de amigos y el resultado del sorteo.
 
-## Instalación
+## Uso
 
-1. Clona el repositorio a tu máquina local:
+1. Clona el repositorio:
+    ```sh
+    git clone https://github.com/tu-usuario/amigo-secreto.git
+    ```
+2. Abre el archivo `index.html` en tu navegador.
 
-   ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+## Capturas de Pantalla
+
+![Captura de Pantalla](assets/amigo-secreto.png)
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio que desees realizar.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
